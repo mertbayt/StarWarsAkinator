@@ -1,2 +1,2 @@
 # StarWarsAkinator
-Built with Codename One. ww
+Built with Codename One. 
